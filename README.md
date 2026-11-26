@@ -7,7 +7,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-petrosgdev.pages.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://petrosgdevv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/https://petrosgdevv.vercel.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://petrosgdevv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-petros--geto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-geto-0b1a1b1b3/)
 [![Email](https://img.shields.io/badge/Email-petrosgeto7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petrosgeto7@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@petrosgdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/petrosgdev)
