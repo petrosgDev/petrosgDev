@@ -6,6 +6,7 @@
 *Building digital products that solve real problems through thoughtful design, clean code, and purposeful innovation.*
 
 <br />
+![Profile Views](https://komarev.com/ghpvc/?username=petrosgdev&color=blue&style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/https://petrosgdevv.vercel.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://petrosgdevv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-petros--geto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petros-geto-0b1a1b1b3/)
